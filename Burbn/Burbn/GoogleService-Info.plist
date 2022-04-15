@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>715604831768-0048r0ok5vkival6sq40shj6i8u0ep3d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.715604831768-0048r0ok5vkival6sq40shj6i8u0ep3d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDKgAWYoOng_-Xq797zmkmRQutJspCqtUk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>715604831768</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>PG.Burbn</string>
+	<key>PROJECT_ID</key>
+	<string>burbn-eb381</string>
+	<key>STORAGE_BUCKET</key>
+	<string>burbn-eb381.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:715604831768:ios:f64e61ff68fb10d05edd6d</string>
+</dict>
+</plist>
